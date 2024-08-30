@@ -2,7 +2,7 @@
 - 👀 I’m interested in automatization and AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me: develgzertech@gmial.com
+- 📫 How to reach me: develgzertech@gmail.com
 
 <!---
 develgzertech/develgzertech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
